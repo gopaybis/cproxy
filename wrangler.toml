@@ -1,0 +1,9 @@
+name = "proxy-checker"
+main = "src/index.js"
+compatibility_date = "2024-06-22"
+
+[vars]
+GITHUB_TOKEN = "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"
+GITHUB_REPO = "gopaybis/Proxylist"
+GITHUB_FILE_PATH = "data-proxy.txt"
+GITHUB_BRANCH = "main"
